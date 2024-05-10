@@ -1,0 +1,10 @@
+.li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+header {
+    height: 10vh;
+    width: 100%;
+    background-color: brown;
+}

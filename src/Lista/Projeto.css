@@ -1,0 +1,24 @@
+.list-item {
+    list-style: none;
+    background-color: rgb(138, 50, 165);
+    margin: 10px;
+    padding: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    transition: 0.4s;
+}
+
+.list-item:hover {
+    background-color: aqua;
+}
+
+.title {
+    margin: 10px;
+    padding: 20px;
+    color: aqua;
+    transition: 0.4s;
+}
+
+.title:hover {
+    color: blueviolet;
+}
